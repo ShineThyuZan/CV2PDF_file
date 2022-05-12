@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CV to Pdf</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="exp_salary">Expected Salary</string>
+    <string name="posting_date">Job Posting Date</string>
+    <string name="experience">Experience</string>
+    <string name="skill">Skills</string>
+    <string name="choose">Choose Posting Date</string>
+    <string name="gender">Male , Female or Other</string>
+    <string name="maritalStatus">Single , Married</string>
+    <string name="app_desc">Easy to Create CV form and save pdf format in your phone storage.</string>
+    <string name="create_cv">Create CV</string>
+    <string name="user_info">User Info</string>
+    <string name="school">School</string>
+    <string name="error_name">Fill this text</string>
+    <string name="university">University</string>
+    <string name="Certificate">Certificate</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="video">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</string>
+    <string name="mp3">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="expose">Expose CV</string>
+    <string name="education">Your Education</string>
+    <string name="Experience">Experience</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Quantity: %1$s \n Flavor: %2$s \nPickup date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
