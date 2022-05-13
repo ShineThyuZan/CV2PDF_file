@@ -47,10 +47,8 @@ class UserInfoFragment : Fragment() {
             this@UserInfoFragment
         }
         binding?.nextButton?.setOnClickListener {
-            if (validate()) {
                 userInfo()
                 findNavController().navigate(R.id.action_userInfo_to_education)
-            }
         }
     }
 

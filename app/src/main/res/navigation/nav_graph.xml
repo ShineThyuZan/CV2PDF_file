@@ -41,7 +41,7 @@
     </fragment>
     <fragment
         android:id="@+id/experienceFragment"
-        android:name="com.example.cupcake.SkillFragment"
+        android:name="com.example.cupcake.ExperienceFragment"
         android:label="@string/Experience"
-        tools:layout="@layout/fragment_user_skill" />
+        tools:layout="@layout/fragment_user_experience" />
 </navigation>
